@@ -11,12 +11,12 @@ if not os.path.exists("Home.py"):
 
 # Firebase configuration
 firebaseConfig = {
-    'apiKey': "AIzaSyBzCk6aPK_YZf2J2HsA-o4VDCMTum7k8hU",
-    'authDomain': "dadhichi-bcd1c.firebaseapp.com",
-    'projectId': "dadhichi-bcd1c",
-    'storageBucket': "dadhichi-bcd1c.firebasestorage.app",
-    'messagingSenderId': "910382895233",
-    'appId': "1:910382895233:web:c945002be32152b996bd80",
+    'apiKey': "OMITTED API KEY",
+    'authDomain': "OMITTED",
+    'projectId': "OMITTED",
+    'storageBucket': "OMITTED",
+    'messagingSenderId': "OMITTED",
+    'appId': "OMITTED",
     'databaseURL': ""
 }
 
