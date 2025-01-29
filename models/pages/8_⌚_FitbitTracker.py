@@ -10,9 +10,9 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, r2_score
 from sklearn.metrics.pairwise import cosine_similarity
 
-ACCESS_TOKEN = ('eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyM1E2TkIiLCJzdWIiOiJDMzlWOEMiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc29jIHJlY2cgcnNldCByaXJuIHJveHkgcm51dCBycHJvIHJzbGUgcmNmIHJhY3QgcmxvYyBycmVzIHJ3ZWkgcmhyIHJ0ZW0iLCJleHAiOjE3MzgxMjgyMjAsImlhdCI6MTczODA5OTQyMH0.7edGjiEgmJlgqCVP5crUzwzYvIzV3BIhZxJ9vyVUAs8')
+ACCESS_TOKEN = ('OMITTED ACCESS TOKEN')
 
-BASE_URL = 'https://api.fitbit.com/1/user/C39V8C'
+BASE_URL = 'https://api.fitbit.com/1/user/OMITTED'
 
 # Headers for authentication
 headers = {
