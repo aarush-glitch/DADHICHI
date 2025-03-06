@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+mediapipe
+firebase-admin
+requests
+numpy
+pandas
+fitbit-api-client
