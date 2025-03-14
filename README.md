@@ -13,10 +13,6 @@ Dadhichi is a **personalized AI fitness coach** that helps users track their wor
 - 🔗 **Wearable Integration** – Fetches real-time activity & health metrics from Fitbit devices.  
 - 🔐 **User Authentication** – Secure login/signup with Firebase.  
 
-## 📽️ Project Demo  
-Watch the project in action:  
-[![Dadhichi AI Fitness Coach](https://img.youtube.com/vi/oWkERaApKxI/0.jpg)](https://youtu.be/oWkERaApKxI)
-
 ## 🏗️ Tech Stack  
 - **Frontend:** Streamlit for UI/UX.  
 - **Backend:** Python, OpenCV, Firebase.  
